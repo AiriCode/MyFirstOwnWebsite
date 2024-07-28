@@ -1,14 +1,17 @@
 {
   "name": "firstownwebsite",
   "version": "1.0.0",
-  "description": "",
+  "description": "My first website using the dependencies which can be found below.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "prettier": "prettier -write .",
+    "lint": "next lint"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Airi V.",
+  "license": "MIT",
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.13.0",
