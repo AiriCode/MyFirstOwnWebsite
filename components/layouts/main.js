@@ -6,7 +6,7 @@ const Main = ({ children, router }) => {
     <Box as="main" pb={8}>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Airi V. homepage.</title>
+        <title>FlyingPandaDev homepage.</title>
       </Head>
 
       <Container maxW="container.md" pt={14}>
