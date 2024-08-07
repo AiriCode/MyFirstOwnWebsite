@@ -11,7 +11,7 @@ const Page = () => {
         <Box flexGrow={1}></Box>
       </Box>
       <Heading as="h2" variant="page-title">
-        Airi V.
+        FlyingPandaDev.
       </Heading>
     </Container>
   )
